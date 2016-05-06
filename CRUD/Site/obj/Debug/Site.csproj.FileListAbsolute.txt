@@ -1,0 +1,7 @@
+c:\users\lianderson\documents\visual studio 2012\Projects\CRUD\Site\bin\Site.dll
+c:\users\lianderson\documents\visual studio 2012\Projects\CRUD\Site\bin\Site.pdb
+c:\users\lianderson\documents\visual studio 2012\Projects\CRUD\Site\bin\DAL.dll
+c:\users\lianderson\documents\visual studio 2012\Projects\CRUD\Site\bin\DAL.pdb
+c:\users\lianderson\documents\visual studio 2012\Projects\CRUD\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+c:\users\lianderson\documents\visual studio 2012\Projects\CRUD\Site\obj\Debug\Site.dll
+c:\users\lianderson\documents\visual studio 2012\Projects\CRUD\Site\obj\Debug\Site.pdb

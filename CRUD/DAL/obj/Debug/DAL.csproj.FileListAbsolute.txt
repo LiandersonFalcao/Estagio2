@@ -1,0 +1,5 @@
+c:\users\lianderson\documents\visual studio 2012\Projects\CRUD\DAL\bin\Debug\DAL.dll
+c:\users\lianderson\documents\visual studio 2012\Projects\CRUD\DAL\bin\Debug\DAL.pdb
+c:\users\lianderson\documents\visual studio 2012\Projects\CRUD\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\lianderson\documents\visual studio 2012\Projects\CRUD\DAL\obj\Debug\DAL.dll
+c:\users\lianderson\documents\visual studio 2012\Projects\CRUD\DAL\obj\Debug\DAL.pdb

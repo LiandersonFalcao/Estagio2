@@ -1,0 +1,7 @@
+c:\users\lianderson\documents\visual studio 2012\Projects\Estagio2\Estagio2\bin\Estagio2.dll
+c:\users\lianderson\documents\visual studio 2012\Projects\Estagio2\Estagio2\bin\Estagio2.pdb
+c:\users\lianderson\documents\visual studio 2012\Projects\Estagio2\Estagio2\obj\Debug\Estagio2.dll
+c:\users\lianderson\documents\visual studio 2012\Projects\Estagio2\Estagio2\obj\Debug\Estagio2.pdb
+c:\users\lianderson\documents\visual studio 2012\Projects\Estagio2\Estagio2\obj\Debug\Estagio2.csprojResolveAssemblyReference.cache
+C:\Users\Lianderson\Documents\Visual Studio 2012\Projects\Estagio2\Estagio2\bin\DAL.dll
+C:\Users\Lianderson\Documents\Visual Studio 2012\Projects\Estagio2\Estagio2\bin\DAL.pdb
